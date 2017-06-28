@@ -1,0 +1,35 @@
+table{
+    width: auto;
+    height: auto;
+    border: solid black 5px;
+}
+table tr th{
+    padding-right: 100px;
+}
+th.first{
+    padding-left: 10px;
+}
+th.contact{
+    padding-right: 10px;
+}
+.info{
+    width: 320px;
+}
+.info h1{
+    width: 300px;
+    border-bottom: solid black 3px;
+}
+#first_name, #last_name, #email, #number{
+    margin-bottom: 5px;
+}
+#last_name{
+    margin-right: 30px;
+}
+button{
+    margin-left: 180px
+}
+
+.forminput{
+border-radius:10px;
+padding:2px;
+}
